@@ -1,0 +1,21 @@
+
+.carousel {
+  margem inferior: 4rem;
+}
+
+.carousel-caption {
+  inferior: 3rem;
+  índice z: 10;
+}
+
+.carousel-item {
+  altura: 32 rem;
+  cor de fundo: # 777;
+}
+.carousel-item> img {
+  posição: absoluta;
+  topo: 0;
+  esquerda: 0;
+  largura mínima: 100%;
+  altura: 32 rem;
+}
